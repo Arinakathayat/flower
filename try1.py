@@ -4,12 +4,10 @@ import turtle
 screen = turtle.Screen()
 screen.bgcolor("white")
 
-
 # Create turtle object
 flower = turtle.Turtle()
 flower.speed(0)
 flower.color("purple")
-
 
 # Function to draw a petal
 def draw_petal():
