@@ -2,9 +2,7 @@ import turtle
 # Set up the screen
 screen =turtle.Screen()
 screen.bgcolor("white")
-
 # Create turtle object
-
 flower = turtle.Turtle()
 flower.speed(0)
 flower.color("purple")
